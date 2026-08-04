@@ -13,22 +13,22 @@ For usage you need the file COLORS.DAT.
 COLORS.DAT contains the text/background colors for the clock
 The file must be exactly 32 bytes, if you have unused space fill it with 0's
 The format which the data it expects is hex with the color attributes, here are the basic color attributes (in hex):
-0 = Black
-1 = Blue
-2 = Green
-3 = Aqua
-4 = Red
-5 = Purple
-6 = Yellow
-7 = White
-8 = Gray
-9 = Light Blue
-A = Light Green
-B = Light Aqua
-C = Light Red
-D = Light Purple
-E = Light Yellow
-F = Bright White
+0 = Black  <br> 
+1 = Blue  <br> 
+2 = Green  <br> 
+3 = Aqua  <br> 
+4 = Red  <br> 
+5 = Purple  <br> 
+6 = Yellow  <br> 
+7 = White  <br> 
+8 = Gray  <br> 
+9 = Light Blue  <br> 
+A = Light Green  <br> 
+B = Light Aqua  <br> 
+C = Light Red  <br> 
+D = Light Purple  <br> 
+E = Light Yellow  <br> 
+F = Bright White  <br> 
 First part of the byte is the background color while the other is the text color.
 
 ### Other info
