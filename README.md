@@ -9,6 +9,8 @@ Only thing it needs is support for interrupt 15h service 86h (wait microseconds)
 
 For usage you need the file COLORS.DAT.
 
+To exit the program press ESC (or hold).
+
 ### COLORS.DAT
 COLORS.DAT contains the text/background colors for the clock
 The file must be exactly 32 bytes, if you have unused space fill it with 0's
